@@ -8,6 +8,7 @@ public class BubbleSort {
 		int j,k,temp=0;
 		for(int temp1:a){
 			System.out.println("Before Sorting "+temp1);
+			System.out.println("");
 			
 		}
 		
