@@ -1,0 +1,17 @@
+INDEX VERSION 1.127+C:\Users\ragopi\Documents\Study Folder\.metadata\.plugins\org.eclipse.jdt.core
+3609232429.index
+1570938081.index
+2695608366.index
+2684184799.index
+2717696719.index
+72521417.index
+502313726.index
+786191673.index
+2858747792.index
+824763026.index
+692142869.index
+2765759964.index
+3534726461.index
+2186245840.index
+4007564523.index
+3103523947.index
